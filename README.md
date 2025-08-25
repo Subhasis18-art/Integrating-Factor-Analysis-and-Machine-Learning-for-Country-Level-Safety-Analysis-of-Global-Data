@@ -1,0 +1,2 @@
+# Integrating-Factor-Analysis-and-Machine-Learning-for-Country-Level-Safety-Analysis-of-Global-Data
+Developed a hybrid framework integrating Exploratory Factor Analysis and Random Forest modeling to assess country-level safety based on governance, legal, and social indicators. Achieved high predictive accuracy while identifying key institutional and legal drivers of safety, providing actionable insights for global policy and development.
